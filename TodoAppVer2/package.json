@@ -1,0 +1,20 @@
+{
+  "name": "todoappver2",
+  "version": "1.0.0",
+  "description": "sample app using mysql with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodemysql"
+  },
+  "author": "Ngoc Vu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
